@@ -1,10 +1,11 @@
 <h1>Helloo! My name is Kaio Torres, Welcome to my profile! </h1>
 <hr></hr>
-<h2>🤓 I'm a student </h2>
+<h2>🤓 I'm a student</h2>
 <h2>🎓 I'm at the faculty of systems analysis and development</h2>
 <h2>💡  thinking about being a front-end developer in the future</h2>
 <h2>👨‍💻 I discovered that I love programming when I joined Senai</h2>
 <h2>🔥 Devouring all the knowledge I find ahead <h2>
+<h2>🖥️ I currently work at beeid </h2>
 
 <Hr></hr>
 <div align="center" valign="top">
