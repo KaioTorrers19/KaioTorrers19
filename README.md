@@ -1,6 +1,6 @@
 <h1>Helloo! My name is Kaio Torres, Welcome to my profile! </h1>
 <hr></hr>
-<h2>🤓 I'm a student looking for a job </h2>
+<h2>🤓 I'm a student </h2>
 <h2>🎓 I'm at the faculty of systems analysis and development</h2>
 <h2>💡  thinking about being a front-end developer in the future</h2>
 <h2>👨‍💻 I discovered that I love programming when I joined Senai</h2>
