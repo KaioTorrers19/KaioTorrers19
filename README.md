@@ -24,4 +24,4 @@
 <div align="center">
   <a href="https://www.linkedin.com/in/kaio-torres-33bb94154/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ErickDourado&theme=dark&bg_color=2b2bb2&layout=compact)](https://github.com/ErickDourado)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KaioTorrers19&theme=dark&bg_color=2b2bb2&layout=compact)](https://github.com/KaioTorrers19)
