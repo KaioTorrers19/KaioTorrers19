@@ -3,6 +3,7 @@
 <p align="center">I ❤️  challenges . <br><br> future fullstack developer, I am <strong>passionate to discover new stuffs</strong> and use them to create high quality solutions. <strong>focused on web development.</strong> </p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
+ <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=KaioTorrers19&theme=radical&mode=weekly" />
 <img width=40% align="center" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=KaioTorrers19&show_icons=true&theme=radical&layout=compact" />
  </div>
  
